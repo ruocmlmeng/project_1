@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "cstdlib": "c",
+        "photo.h": "c",
+        "jpg.h": "c",
+        "touch.h": "c",
+        "signal.h": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "types.h": "c",
+        "typeinfo": "c",
+        "game.h": "c",
+        "lcd.h": "c"
+    }
+}
